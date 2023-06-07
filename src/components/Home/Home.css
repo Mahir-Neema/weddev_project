@@ -1,0 +1,285 @@
+/* Navbar */
+.navbar-no-shadow {
+    background-color: #ffffff;
+    box-shadow: none;
+  }
+  
+  .navbar-no-shadow-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .navbar-brand-three-2 img {
+    height: 40px;
+  }
+  
+  .nav-menu-block-2 {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav-menu-block-2 li {
+    margin-right: 20px;
+  }
+  
+  .nav-link-2 {
+    color: #000000;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  .nav-link-2:hover,
+  .nav-link-2.w--current {
+    color: #ff0000;
+  }
+  
+  .menu-button-2 {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  /* Main Page */
+  .main-page {
+    background-color: #f5f5f5;
+  }
+  
+  .container-14 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+  }
+  
+  .slider-2 {
+    position: relative;
+    width: 100%;
+    height: 400px;
+  }
+  
+  .mask-4 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .slide {
+    background-color: #ccc;
+    flex-shrink: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .text-block-10 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .text-block-20 {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* What We Offer */
+  .what-we-offer {
+    padding: 80px 0;
+    background-color: #ffffff;
+  }
+  
+  .heading-2 {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .container-17 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .slider-3 {
+    position: relative;
+    width: 100%;
+    height: 200px;
+  }
+  
+  .mask-2 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .slide-1,
+  .slide-11,
+  .slide-10,
+  .slide-12 {
+    background-color: #ccc;
+    flex-shrink: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .div-block-31 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .paragraph-7 {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  /* What Makes Us the Best */
+  .what-makes-us-the-best {
+    padding: 80px 0;
+    background-color: #f5f5f5;
+  }
+  
+  .centered-heading-3 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  
+  .container-18 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .slider-4 {
+    position: relative;
+    width: 100%;
+    height: 200px;
+  }
+  
+  .mask-3 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .slide-16,
+  .slide-13,
+  .slide-14,
+  .slide-15 {
+    background-color: #ccc;
+    flex-shrink: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .div-block-33 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .paragraph-8 {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  /* About Us */
+  .about-us-home {
+    padding: 80px 0;
+    background-color: #ffffff;
+  }
+  
+  .container-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .container-2 h3 {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  .paragraph-9 {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 32px;
+  }
+  
+  /* Contact Us */
+  .hero-heading-right-2 {
+    padding: 80px 0;
+    background-color: #f5f5f5;
+  }
+  
+  .container-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .heading-5 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  .div-block-36 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .mobile-number {
+    font-size: 24px;
+    font-weight: 600;
+  }
+  
+  .div-block-35 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #3898ec;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 4px;
+  }
+  
+  .button:hover {
+    background-color: #368edc;
+  }
+  
+  .button-2 {
+    background-color: transparent;
+    border: 1px solid #3898ec;
+    color: #3898ec;
+  }
+  
+  .button-2:hover {
+    background-color: #ff0000;
+    color: #ffffff;
+  }
+  
